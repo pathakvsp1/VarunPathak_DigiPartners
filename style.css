@@ -10,7 +10,7 @@
     background-color:rgb(218, 218, 224);
     color: rgb(74, 74, 97);
 }
-.responsive-table{
+.table{
     border: 1px solid rgb(216, 211, 211);
     font-family:sans-serif;
     font-weight: 100px;
@@ -18,7 +18,7 @@
     
 }
 .stats td{
-    padding: 29.5px;
+    padding: 26.5px;
 }
 span{
     color: red;
